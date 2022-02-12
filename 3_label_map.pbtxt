@@ -1,0 +1,10 @@
+item {
+    name: "plane",
+    id: 1,
+    display_name: "plane"
+}
+item {
+    name: "ship",
+    id: 2,
+    display_name: "ship"
+}
